@@ -392,7 +392,10 @@ The source code for Sonic Tilt is licensed under the MIT License, a copy of whic
 
 Exception to this are several source files not authored by us, which include their own proprietary licenses, for example, some are licensed with the Apache license.
 
+In this rockmusic branch, 6 audio files are included and they are mixed inside the app. These are samples from one of my (Tim Ziemer's) songs and I am the Urheber (copyright holder). You are free to use the samples to test and demonstrate the Sonic Tilt app. But your permission to use these samples is restricted to this described cases.
+
 We retain copyright for the Tiltification brand name (not for Sonic Tilt) and of the graphical assets of the **original Tiltification app**, which is currently on the appstores. Such assets include for example the app icon or intro-animations. We made sure to remove our copyrighted materials from this open-source version and replace them with placeholders, so you can play around with this version and distribute it without worry.
+
 
 Lastly, if you use this software and/or want to cite it, please make sure to refer to it by the DOI linked at the top and to cite our ICAD paper (https://icad2021.icad.org/wp-content/uploads/2021/06/ICAD_2021_25.pdf) as well.
 
